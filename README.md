@@ -1,3 +1,6 @@
+![logo-turing.png](https://i.postimg.cc/hj9Hjx94/logo-turing.png)
+
+
 # Videoaulas de Python Básico 
 
 Este repositório contém o notebook utilizado nas videoaulas de Python Básico ministradas no [canal do Turing USP](https://www.youtube.com/c/GrupoTuringUSP). 
